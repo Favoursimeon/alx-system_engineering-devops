@@ -1,1 +1,1 @@
-This is the 6th task on the shell basics
+This is the 7th task on the shell basics
