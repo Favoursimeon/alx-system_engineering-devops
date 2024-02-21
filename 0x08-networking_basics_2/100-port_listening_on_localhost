@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-#Script that listens on port 98 on localhost
+# This script listens on port 98 on localhost.
 
-nc -l 98
+nc -l localhost 98
 
+# use: nc localhost 98 to connect to the port 98 on localhost
