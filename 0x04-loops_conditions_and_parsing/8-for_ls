@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# This script lists files without the number prefix
+
+for i in *; do
+	suffix="${i#*-}"
+	echo "$suffix"
+done
